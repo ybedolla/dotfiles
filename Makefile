@@ -1,2 +1,2 @@
 install:
-  mv .gitconfig ../.
+	mv .gitconfig ../.
